@@ -614,6 +614,7 @@ progress {
 .list-inline {
   padding-left: 0;
   list-style: none;
+  white-space: nowrap;
 }
 
 .list-inline-item {
