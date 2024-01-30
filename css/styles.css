@@ -617,6 +617,10 @@ progress {
   white-space: nowrap;
 }
 
+.list-inline>li {
+  display: inline;
+}
+
 .list-inline-item {
   display: inline-block;
 }
